@@ -4,9 +4,9 @@ Simple scripts associated with the analysis from the following paper: https://ww
 
 ## Description of files
 
-> metagenomic.csv and genomic.csv
+> metagenomic.csv and genomic.csv and b2_h2.csv
 
-Data used for meta-analysis.
+Data used for meta-analysis and b2/h2 comparison.
 
 > figures_and_meta_analysis.R
 
