@@ -22,5 +22,5 @@ Scripts used to generate prevelances for UK Biobank data and parse raw files for
 
 > run_bolt.sh
 
-Example command used too run BOLT-LMM.
+Example command used to run BOLT-LMM.
 
