@@ -41,7 +41,9 @@ round_df <- function(df, digits) {
 
 ###
 metagenomic=read.csv('metagenomic.csv')
+metagenomic=metagenomic[1:12]
 genomic=read.csv('genomic.csv')
+genomic=genomic[1:12]
 tokeep=intersect(metagenomic$Disease_2,genomic$Disease_2)
 d=rbind(metagenomic,genomic)
 
